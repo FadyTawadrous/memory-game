@@ -23,22 +23,21 @@
 
 🚀 Getting Started
 1. Clone the repo
-git clone https://github.com/FadyTawadrous/memory-game.git
-cd memory-game
+- git clone https://github.com/FadyTawadrous/memory-game.git
+- cd memory-game
 
 
 2. Install TypeScript (if not already installed)
-npm install -g typescript
+- npm install -g typescript
 
 
 3. Compile TypeScript
-tsc
-
-This will generatescript.js based on your tsconfig.json.
+- tsc
+- This will generatescript.js based on your tsconfig.json.
 
 
 4. Open in browser
-Just open index.html in your browser — no server required.
+- Just open index.html in your browser — no server required.
 
 
 📦 Dependencies
