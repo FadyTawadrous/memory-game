@@ -12,6 +12,7 @@ A browser-based memory card game built with HTML, CSS, Bootstrap, and TypeScript
 
 📁 Project Structure
 memory-game/
+
 ├── index.html
 ├── styles.css
 ├── script.ts
@@ -41,38 +42,9 @@ This will generatescript.js based on your tsconfig.json.
 4. Open in browser
 Just open index.html in your browser — no server required.
 
-⚙️ TypeScript Configuration
-Your tsconfig.json is optimized for modern browser development:
-{
-  "compilerOptions": {
-    /* --- Base Options --- */
-    "target": "ES2020",
-    "module": "ES2020",
-    "lib": ["DOM", "ES2020"],
-
-    /* --- Strict Type-Checking Options --- */
-    "strict": true,
-    "noImplicitAny": true,
-
-    /* --- Module Resolution Options --- */
-    "moduleResolution": "node",
-    "esModuleInterop": true,
-
-    /* --- Advanced Options --- */
-    "forceConsistentCasingInFileNames": true,
-    "skipLibCheck": true,
-    
-    /* --- Emitting Files --- */
-    "sourceMap": true
-  },
-  "include": [
-    "script.ts"
-  ]
-}
-
 
 📦 Dependencies
-- Bootstrap 5
+- Bootstrap 5 (Available through CDN)
 - No external JS libraries — pure TypeScript and DOM
 
 📌 To Do / Ideas
