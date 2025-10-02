@@ -11,15 +11,14 @@ A browser-based memory card game built with HTML, CSS, Bootstrap, and TypeScript
 - Responsive layout using Bootstrap
 
 📁 Project Structure
-memory-game/
-
-├── index.html
-├── styles.css
-├── script.ts
-├── tsconfig.json
-├── assets/
-│   ├── images/            # 20 card images (e.g., 1.png to 20.png)
-│   ├── audio/
+- memory-game/
+- ├── index.html
+- ├── styles.css
+- ├── script.ts
+- ├── tsconfig.json
+- ├── assets/
+- │   ├── images/            # 20 card images (e.g., 1.png to 20.png)
+- │   ├── audio/
 
 
 
