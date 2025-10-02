@@ -51,4 +51,4 @@
 - Modularize with ES6 classes and components
 
 🧑‍💻 Author
-Fady Tawadrous — .NET Full-Stack Intern.
+- Fady Tawadrous — .NET Full-Stack Intern.
