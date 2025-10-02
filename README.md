@@ -17,7 +17,8 @@ A browser-based memory card game built with HTML, CSS, Bootstrap, and TypeScript
 - ├── script.ts
 - ├── tsconfig.json
 - ├── assets/
-
+  - ├── images/            # 20 card images (e.g., 1.png to 20.png)
+  - ├── sounds/
 
 
 🚀 Getting Started
