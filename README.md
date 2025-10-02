@@ -1,5 +1,5 @@
 🧠 Memory Card Game
-A browser-based memory card game built with HTML, CSS, Bootstrap, and TypeScript. Flip cards to find matching pairs, earn points, and enjoy immersive sound and visuals.
+- A browser-based memory card game built with HTML, CSS, Bootstrap, and TypeScript. Flip cards to find matching pairs, earn points, and enjoy immersive sound and visuals.
 
 🎮 Features
 - 20 cards arranged in a 5×4 grid
