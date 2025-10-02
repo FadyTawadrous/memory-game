@@ -24,7 +24,7 @@ memory-game/
 
 🚀 Getting Started
 1. Clone the repo
-git clone https://github.com/your-username/memory-game.git
+git clone https://github.com/FadyTawadrous/memory-game.git
 cd memory-game
 
 
